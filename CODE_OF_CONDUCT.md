@@ -11,4 +11,4 @@ All contributors are expected to:
 
 Harassment, discrimination, or disrespectful behavior will not be tolerated.
 
-If issues arise, please reach out to the project leaders.
+If issues arise, please raise concerns on the whatsapp group.
