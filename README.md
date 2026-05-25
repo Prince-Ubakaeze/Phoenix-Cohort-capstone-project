@@ -8,13 +8,14 @@ A React-based capstone project developed by TS Academy frontend students as part
 |Name                 |Github            |
 | ------------------- | ---------------- | 
 | Joy Oliver          |                  |
-| Prince Ubakaeze     |                  |
-| Francis Akiti       |                  |
-| Akintunde Atoyebi   |                  |
+| Prince Ubakaeze     |https://github.com/Prince-Ubakaeze|
+| Francis Akiti       |https://github.com/DevAkiti|
+| Akintunde Atoyebi   |https://github.com/Akintunde26|
 | Arabambi Mojoyinola |                  |
 | Uthman              |
 | Odejobi Samuel      |                  |
-|Fadahunsi Victor     |                  |
+|Fadahunsi Victor     |https://github.com/Vfadahunsi|
+| Oke Israel          |                  |
 
 ---
 
