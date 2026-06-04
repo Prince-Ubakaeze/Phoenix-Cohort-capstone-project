@@ -1,3 +1,11 @@
+import React from 'react'
+import Planets from './Planets'
+
+const App = () => {
+  return (
+    <>
+      <Planets />
+    </>
 import './index.css'
 import Navbar from './components/Navbar.jsx'
 import Homepage from './components/Homepage.jsx'
