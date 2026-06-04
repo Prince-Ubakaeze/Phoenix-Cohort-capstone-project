@@ -1,9 +1,10 @@
 import React from 'react'
+import Planets from './Planets'
 
 const App = () => {
   return (
     <>
-      <h1>Welcome you all</h1>
+      <Planets />
     </>
   )
 }
