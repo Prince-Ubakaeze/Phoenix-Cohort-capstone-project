@@ -6,7 +6,7 @@ function Footer() {
         <div className='footer-about'>
           <h3>About</h3>
           <p>
-            Built by the Phoenix Cohort at{' '}
+            Built by the Cosmic Stack(Group 21) at{' '}
             <a href='https://tsacademyonline.com/' target='_blank' rel='noreferrer'>
               TSacademy
             </a>
