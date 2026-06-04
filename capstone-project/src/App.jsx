@@ -1,9 +1,16 @@
-import React from 'react'
+import './index.css'
+import Navbar from './components/Navbar.jsx'
+import Homepage from './components/Homepage.jsx'
+import Planetarydata from './components/Planetarydata.jsx'
+import Planets from './components/Planets.jsx'
 
 const App = () => {
   return (
     <>
-      <h1>Welcome you all</h1>
+      <Navbar />
+      <Homepage />
+      <Planetarydata />
+      <Planets />
     </>
   )
 }
