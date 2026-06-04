@@ -1,0 +1,30 @@
+.container {
+  text-align: left;
+  max-width: 1126px;
+  margin: 0 auto;
+  padding: 0 16px;
+  padding-bottom: 16px;
+  color: black;
+}
+.planet {
+  color: rgb(53, 34, 139);
+  text-align: left;
+  padding-bottom: 10px;
+}
+.main {
+  /* display: flex; */
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+  padding: 64px 16px;
+  color:purple(211, 136, 140);
+  background-color: white;
+}
+.data {
+  color: rgb(181, 25, 46);
+  text-align: left;
+  padding-bottom: 10px;
+}
+.table {
+  color: rgb(7, 141, 43);
+}
