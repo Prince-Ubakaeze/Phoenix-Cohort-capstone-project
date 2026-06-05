@@ -1,9 +1,12 @@
 import React from 'react'
+import Footer from './footer'
+import './App.css'
 import Planets from './Planets'
 
 const App = () => {
   return (
     <>
+    <Footer />
       <Planets />
     </>
 import './index.css'
